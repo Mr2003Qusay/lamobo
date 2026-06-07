@@ -1,0 +1,36 @@
+{
+    "api_keys": {
+        "partner": "",
+        "bearerToken": "",
+        "sessionToken": "",
+        "pvacodesKey": "",
+        "pvacodesCookie": "",
+        "pvacodesEmail": "",
+        "pvacodesPassword": "",
+        "otpdoctorKey": ""
+    },
+    "autobuy_settings": {
+        "selected_apis": [
+            "pvacodes"
+        ],
+        "country_id": "22",
+        "services": {
+            "partner": "Jio5, Jio10, Jio11",
+            "user": "Jio5, Jio10, Jio11",
+            "pvacodes": "Jio5",
+            "otpdoctor": "My jio.com - \ud83c\uddee\ud83c\uddf35"
+        },
+        "max_prices": {
+            "partner": 0.135,
+            "user": 0.135,
+            "pvacodes": 0.135,
+            "otpdoctor": 20.0
+        },
+        "auto_poll_sms": true
+    },
+    "is_autobuy_running": true,
+    "google_one_activation": true,
+    "active_rentals": {},
+    "valid_numbers_found": [],
+    "sms_notified_ids": []
+}
